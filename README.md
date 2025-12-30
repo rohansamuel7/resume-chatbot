@@ -26,6 +26,6 @@ Tech Stack: Python • Sentence-Transformers • FAISS • Ollama (Mistral) • 
 
 - Conversational Tone: Outputs are concise, professional, and framed in first person to mirror real interview responses.
 
-- Privacy-First Design: Fully local execution — no cloud APIs, no resume data uploaded externally.
+- Privacy-First Design: Fully local execution which means no cloud APIs were used and no resume data uploaded externally.
 
 - Scalable Architecture: Modular design allows easy extension to role-specific modes (Data Science, Analytics, Finance) or cloud deployment if desired.
