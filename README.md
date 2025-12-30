@@ -2,7 +2,7 @@
 
 A fully local, AI-powered resume chatbot designed to allow recruiters and hiring managers to ask natural-language questions about my background and receive **grounded, first-person conversational responses**, built to demonstrate real-world applications of semantic search, Retrieval-Augmented Generation (RAG), and LLM system design.
 
-Tech Stack: Python • Sentence-Transformers • FAISS • Ollama (Mistral) • Streamlit
+Tech Stack: Python • Sentence-Transformers • FAISS • LLM Inference (Local via Ollama, API-ready) • Streamlit
 
 **Key Contributions & Impact**
 
