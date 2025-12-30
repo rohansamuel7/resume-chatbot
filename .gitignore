@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+data/raw/*.pdf
+
+
+# Environment variables
+.env
+
+# FAISS / indexes
+index/
+data/processed/
+
+# Ollama / models
+models/
+*.gguf
+
+# OS / editor
+.vscode/
+.DS_Store
